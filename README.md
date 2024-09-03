@@ -1,2 +1,2 @@
 # HMS-MambaGAN
-Hierarchical Multi-Scale Mamba Generative Adversarial Networks for multi-modal medical image synthesis
+Hierarchical multi-Scale Mamba generative adversarial network for multi-modal medical image synthesis
